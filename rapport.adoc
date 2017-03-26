@@ -1,0 +1,24 @@
+= [INSERT_TITLE_HERE] 
+Jordan Quagliatini <jordan.quagliatini@cpe.fr>
+:toc: right
+:toclevels: 2
+:toc-title: Sommaire
+:notitle:
+:version: 0.1
+:encoding: utf-8
+:imagesdir: images
+:table-caption: Tableau
+:appendix-caption: Annexe
+:source-highlighter: pygments
+:front-cover-image: image:page-de-garde.png[width=2280]
+:experimental:
+:pagenums:
+:author: Jordan Quagliatini
+:class: 4IRC
+
+:!sectnums:
+:sectnums:
+
+ifndef::backend-pdf[]
+include::last-page.adoc[]
+endif::[]

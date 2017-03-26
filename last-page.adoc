@@ -1,0 +1,5 @@
+== Résumé
+:notitle:
+:encoding: utf-8
+:imagesdir: images
+
